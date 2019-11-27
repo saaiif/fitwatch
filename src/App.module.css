@@ -1,0 +1,22 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.mainFrame {
+  width: 100%;
+  padding: 4% 12%;
+  box-sizing: border-box;
+  margin-top: 32px;
+
+  display: flex;
+  align-items: center;
+}
+.productImage {
+  width: 50%;
+  position: relative;
+}
+
+.productView {
+  width: 50%;
+}
+

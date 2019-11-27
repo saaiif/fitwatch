@@ -1,0 +1,17 @@
+.icon {
+   width: 100%;
+   color: white;
+   background-color: #282c34;
+   position: fixed;
+   top: 0;
+   left: 0;
+   text-align: center;
+ 
+ }
+ 
+ .icon>i {
+   width: 100px;
+   padding: 14px 24px;
+   font-size: 29px;
+   color: white;
+ }
